@@ -66,7 +66,7 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 ```
 
 Test with https://<local_IP_of_the_server> 
-A warning message should come up on the browser that the CA is not trusted. Accept and continue
+A warning message should come up on the browser that the CA is not trusted. Accept and continue.
 
 
 ## Contributing
